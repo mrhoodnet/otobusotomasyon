@@ -1,0 +1,11 @@
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.exe.config
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.exe
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.pdb
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csprojAssemblyReference.cache
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.Form1.resources
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.Kayit.resources
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.Properties.Resources.resources
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csproj.GenerateResource.cache
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.exe
+C:\Users\aytun\source\repos\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.pdb
